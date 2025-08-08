@@ -86,8 +86,14 @@ The goal of this project is to analyze and visualize HR data to:
 
 - ✅ **HR Analytics & Attrition Insights**  
   Uncovered key patterns in employee behavior, turnover, and department-level performance using structured analytics.
+---
+### 🙌 Credits
+
+Developed by **SHOAIB ALI**, Data Analyst & IT Enthusiast.  
+Connect with me on [LinkedIn]https://www.linkedin.com/in/shoaib-ali-a59605379 | [GitHub Portfolio](https://github.com/shoaibali2002
 
 ---
+```plaintext
 ## 📂 Project Structure
 hr-analytics-dashboard/
 │
@@ -108,11 +114,6 @@ hr-analytics-dashboard/
 └── LICENSE
 
 
----
-### 🙌 Credits
-
-Developed by **SHOAIB ALI**, Data Analyst & IT Enthusiast.  
-Connect with me on [LinkedIn]https://www.linkedin.com/in/shoaib-ali-a59605379 | [GitHub Portfolio](https://github.com/shoaibali2002
 
 
 
